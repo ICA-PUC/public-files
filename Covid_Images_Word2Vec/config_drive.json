@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        285,
+        1024
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/feat_covid.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/covid_metadata.tsv",
+      "sprite": {
+        "imagePath": "https://doc-00-54-docs.googleusercontent.com/docs/securesc/a3h8pil04bi1o319qpvf5vs787vdrrf4/ojm0cjklpefmjjvj3dpr4n7bj99hl626/1585795050000/14207732478454182689/11467962115429082159Z/1L6lX88sWwHcki6P3urJBromgFWZ0e2XH?e=view",
+        "singleImageDim": [
+          224,
+          224
+        ]
+      }
+    }
+  ]
+}
