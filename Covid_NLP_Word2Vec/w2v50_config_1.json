@@ -3,10 +3,10 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
+        83334,
         50
       ],
-      "tensorPath": "https://github.com/ICA-PUC/public-files/blob/master/Covid_NLP_Word2Vec/w2v50_tensor.tsv",
+      "tensorPath": "https://media.githubusercontent.com/media/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/w2v50_tensor.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/w2v50_metadata.tsv",
       "bookmarksPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/state_50.txt"
     }
