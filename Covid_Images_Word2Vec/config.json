@@ -9,7 +9,7 @@
       "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/feat_covid.tsv",
       "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/covid_metadata.tsv",
       "sprite": {
-        "imagePath": "https://github.com/ICA-PUC/public-files/blob/master/Covid_Images_Word2Vec/sprite_covid_image.png",
+        "imagePath": "https://github.com/ICA-PUC/public-files/blob/master/Covid_Images_Word2Vec/sprite_covid_image.png?raw=true",
         "singleImageDim": [
           224,
           224
