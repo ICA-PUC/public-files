@@ -9,10 +9,10 @@
       "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/feat_covid.tsv",
       "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/covid_metadata.tsv",
       "sprite": {
-        "imagePath": "http://139.82.152.21/wp-content/uploads/2020/03/mnist_10k_sprite.png",
+        "imagePath": "https://lh3.googleusercontent.com/SSUehcmgQCImm4-sqBPM6_5-CM0BsvFNgI2qtjeaIGrUNF1Ifiq8i_lqalS69WTnJg2kY4VRZzaZXdFmbXGQDd9KiKV78L9_Bz7vKJpxgo-tPF3MirOCeQgpeql1aHU9cJUniGzf5MA6p409lhWgxnk3wkhNYLNdTAGlFcVUan41f78MloMUgyX0UuYqbPdDfjviGS8BYAbook5ZcAWVnjMjhb4yb4wqmqQPSeo9h2ThDLQVKw34reQjizj2JGWNiHaKXOhJhKIo5X_4jOexAJTbiqFyGFNnlMv8vyws-37dbvu33UP1PTcnW4QMFyhajp2A70U3fVhAgHOA2CyY3lzv8-yokvE3hjOv4-TvpgcxvK_EsGgcOKdjeOpxAKHsnqLsSEnNnAPhkSfwUVQcJMLaY38ZFkoUg5QTeyqe82L_DWYNUbcTerMWU4D2rLV60QOx6qIjkn3TZbKVIhHMpskJ2FczD0pwX6I8AX86DOqhiTmNVDHTOIt4f9R7W38KbGYkgc1fuwaooFFHBtnB72HIXBb9AtOvV4Kw8DOJnjmJl-5pZ5yeebeH2mtPVv9HyyvoeYQocEXkV7qZUHafSIh3YjkbeopirqN2MtJAN1Q2QUMvp5iZNN5QJwW-vj3OEVM9TBmS5ozJty2Oc1kArHwMncyRrWcrhtSYkmpwlGRCKuFoHUGnAgVvGaXEuWNJmQ=w2048-h2048-ft",
         "singleImageDim": [
-          24,
-          24
+          120,
+          120
         ]
       }
     }
