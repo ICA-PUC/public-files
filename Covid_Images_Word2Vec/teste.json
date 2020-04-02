@@ -1,13 +1,22 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Mnist with images",
       "tensorShape": [
-        285,
-        1024
+        10000,
+        784
       ],
-      "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/feat_covid.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_Images_Word2Vec/covid_metadata.tsv",
+      "tensorPath": "https://storage.googleapis.com/embedding-projector/data/mnist_10k_784d_tensors.bytes",
+      "metadataPath": "https://storage.googleapis.com/embedding-projector/data/mnist_10k_784d_labels.tsv",
+      "sprite": {
+        "imagePath": "https://storage.googleapis.com/embedding-projector/data/mnist_10k_sprite.png",
+        "singleImageDim": [
+          28,
+          28
+        ]
+      }
     }
   ]
 }
+
+
