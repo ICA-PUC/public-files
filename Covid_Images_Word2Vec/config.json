@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "https://github.com/bermudezjose/metadatos/blob/master/sprite_covid_image.png",
         "singleImageDim": [
-          32,
-          32
+          224,
+          224
         ]
       }
     }
