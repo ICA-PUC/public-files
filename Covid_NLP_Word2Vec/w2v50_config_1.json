@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        83334,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/w2v50_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/w2v50_metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/state_50.txt"
+    }
+  ]
+}
