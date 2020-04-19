@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        284589,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/teste_tensor1.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/teste_metadata.tsv"
+    }
+  ]
+}
