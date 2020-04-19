@@ -6,8 +6,8 @@
         284589,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/teste_tensor1.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/ICA-PUC/public-files/master/Covid_NLP_Word2Vec/teste_metadata.tsv"
+      "tensorPath": "http://www.iacontracovid.com.br/wp-content/uploads/servernlp/COVID-NLP/dataset/w2v/teste_tensor1.tsv",
+      "metadataPath": "http://www.iacontracovid.com.br/wp-content/uploads/servernlp/COVID-NLP/dataset/w2v/teste_metadata.tsv"
     }
   ]
 }
