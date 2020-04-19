@@ -6,8 +6,8 @@
         284589,
         50
       ],
-      "tensorPath": "http://www.iacontracovid.com.br/wp-content/uploads/servernlp/COVID-NLP/dataset/w2v/teste_tensor1.tsv",
-      "metadataPath": "http://www.iacontracovid.com.br/wp-content/uploads/servernlp/COVID-NLP/dataset/w2v/teste_metadata.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/pedro9589/temp-files/master/w2v_tensor_50.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/pedro9589/temp-files/master/w2v_metadata_50.tsv"
     }
   ]
 }
